@@ -1,6 +1,8 @@
-jenkins/data/*
-jenkins/home/*
+artifactory/*
 
 gitlab/config/*
 gitlab/logs/*
 gitlab/data/*
+
+jenkins/data/*
+jenkins/home/*
